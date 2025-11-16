@@ -22,7 +22,8 @@ st.markdown("- Anapat, Supolthit — development and prompt design")
 st.header("Contributors")
 st.markdown("""
 - Anapat, Supolthit — Streamlit framework / Open AI API utilization
-- Pattadon, Pattrachonm - Report / Demonstration
+- Pattadon, Pattrachonm - Report / Research
+- Anapat - Presentation/Demonstration
 """)
 
 st.header("Libraries & Services")
