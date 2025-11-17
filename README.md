@@ -1,2 +1,7 @@
-# academy
-academ chatbot
+Project/
+│
+├── code/
+├── docs/
+├── images/
+├── README.md
+└── .gitignore
